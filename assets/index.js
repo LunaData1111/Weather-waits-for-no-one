@@ -248,3 +248,6 @@ $("#city-input").keypress(function (event) {
     getResponseWeather(cityInput);
   }
 });
+
+//It is functioning well before I pulished to GitHub.
+//Looking for the bugs before finale push.
